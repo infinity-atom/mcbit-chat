@@ -28,4 +28,4 @@ This image may take a few minutes to refresh.
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+<script src="https://pxt.azureedge.net/blob/192ce73678d26c889a124ca45cb225998d50338b//gh-pages-embed.js"></script>
